@@ -1,0 +1,5 @@
+C:\Users\darwi\Source\Repos\Bark\obj\Release\netstandard2.1\Bark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darwi\Source\Repos\Bark\obj\Release\netstandard2.1\Bark.AssemblyInfoInputs.cache
+C:\Users\darwi\Source\Repos\Bark\obj\Release\netstandard2.1\Bark.AssemblyInfo.cs
+C:\Users\darwi\Source\Repos\Bark\obj\Release\netstandard2.1\Bark.csproj.CoreCompileInputs.cache
+C:\Users\darwi\Source\Repos\Bark\obj\Release\netstandard2.1\Bark.sourcelink.json
